@@ -38,7 +38,7 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        List arr = new ArrayList<>(Arrays.asList(5, 3, 6,7));
+        List arr = new ArrayList<>(Arrays.asList(5, 3, 6,3));
         System.out.println(quickSort(arr));
 
     }
